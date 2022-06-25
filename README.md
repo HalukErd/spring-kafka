@@ -1,5 +1,5 @@
-#SPRING KAFKA
-###Installation
+# SPRING KAFKA
+### Installation
 * After downloading the Kafka tar file.
 * Extract and cd inside
 ```bash
